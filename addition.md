@@ -1,0 +1,5 @@
+The addition of two integers is quite simple.
+Addition is signified with the plus symbol "+".
+You take two numbers and combine the numbers. If you have 3 apples and someone gives you 3 more apples, then you now have 6 apples.
+
+3 + 3 = 6
