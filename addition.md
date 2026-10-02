@@ -5,3 +5,6 @@ You take two numbers and combine the numbers. If you have 3 apples and someone g
 3 + 3 = 6
 
 10 + 10 = 20
+
+how the multiplication of two integers works. two whole numbers get multiplied to get a sum.
+Example of this is 4 x 5 = 20
